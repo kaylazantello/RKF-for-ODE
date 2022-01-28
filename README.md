@@ -3,7 +3,7 @@ Kayla Zantello and Lucio Infante
 
 ## Install and Run
 ### Installations
-1. Download Python. This program was made with version 3.6.9. Check which version you are running by entering ```python --version``` into your terminal.  
+1. Download Python. This program was made with version 3.10.2, but is compatible with Python 2.7, or Python 3.3 and greater. Check which version you are running by entering ```python --version``` into your terminal.  
 2. Download the Jupyter Notebook interface with the command ```pip install jupyter```.  
 3. Install Numpy package with ```pip install numpy```.
 4. Install Scipy package with ```pip install scipy```.
