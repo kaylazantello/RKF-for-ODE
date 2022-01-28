@@ -11,5 +11,4 @@ Kayla Zantello and Lucio Infante
 6. Download zip file of code. Once downloaded, unzip the file and place the folder into the desired directory.  
 ### Running the program
 1. Navigate to the chosen directory.
-2. Start the Jupyter Notebook server by entering ```jupyter notebook```.  
-3. Run the Notebook with the command ```jupyter run rkf.ipynb```.
+2. Start the Jupyter Notebook server by entering ```jupyter notebook rkf.ipynb```.  
